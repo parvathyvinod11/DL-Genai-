@@ -1,5 +1,5 @@
 # DL-Genai-
-# Project Title (Tentative)
+# Smart MCQ solver
 
 ## Student Details
 Name: Parvathy Vinod  
